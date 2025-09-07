@@ -5,6 +5,7 @@ Write it down. Get it done! ✅
 
 A simple and interactive Todo List Application built using HTML, CSS, and JavaScript.
 
+
 🚀 Features
 
 ✍️ Add, edit, and delete tasks dynamically
@@ -18,6 +19,7 @@ A simple and interactive Todo List Application built using HTML, CSS, and JavaSc
 💾 LocalStorage support (tasks remain saved until you refresh/close)
 
 📱 Clean and responsive UI
+
 
 🛠️ Tech Stack
 
