@@ -64,7 +64,7 @@ git clone https://github.com/hemasriaavala/Todo-list.git
 
  2.Navigate to the project directory:
 
-cd todo-app
+cd Todo-list
 
 
  3.Open the index.html file in your browser.
