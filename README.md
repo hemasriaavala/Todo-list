@@ -1,22 +1,7 @@
 # 📝 Todo App
 
 Write it down. Get it done! ✅
-
 The Todo App is a simple and user-friendly task management application built using HTML, CSS, and JavaScript.
-
-## 🚀 Features
-
-✍️ Add, edit, and delete tasks dynamically
-
-✅ Mark tasks as completed (strikethrough effect)
-
-📊 Track progress with a live progress bar
-
-🎉 Confetti celebration when all tasks are completed
-
-💾 LocalStorage support (tasks remain saved until you refresh/close)
-
-📱 Clean and responsive UI
 
 ## 📑 Table of Contents
 
@@ -74,7 +59,7 @@ To run this project locally:
 
  1.Clone the repository:
 
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/hemasriaavala/Todo-list.git
 
 
  2.Navigate to the project directory:
