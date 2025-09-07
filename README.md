@@ -1,12 +1,10 @@
-# WebDev
-📝 Todo App
+# 📝 Todo App
 
 Write it down. Get it done! ✅
 
-A simple and interactive Todo List Application built using HTML, CSS, and JavaScript.
+The Todo App is a simple and user-friendly task management application built using HTML, CSS, and JavaScript.
 
-
-🚀 Features
+## 🚀 Features
 
 ✍️ Add, edit, and delete tasks dynamically
 
@@ -20,33 +18,90 @@ A simple and interactive Todo List Application built using HTML, CSS, and JavaSc
 
 📱 Clean and responsive UI
 
+## 📑 Table of Contents
 
-🛠️ Tech Stack
+[About the Project](#about-the-project)
+
+[Features](#features)
+
+[Demo](#demo)
+
+[Technologies Used](#technologies-used)
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Screenshots](screenshots)
+
+[Future Improvements](#future-improvements)
+
+## 📖 About the Project
+
+The Todo App is a simple and user-friendly task management application built using HTML, CSS, and JavaScript. It helps users stay organized by allowing them to add, edit, delete, and mark tasks as completed. The app also provides a visual progress bar to track task completion and celebrates with a confetti animation when all tasks are done. With the use of browser localStorage, tasks are saved even after refreshing the page, ensuring a smooth and reliable experience. This project demonstrates core web development concepts such as DOM manipulation, event handling, and data persistence.
+
+## ✨ Features
+
+➕ Add new tasks
+
+✏️ Edit existing tasks
+
+🗑️ Delete tasks
+
+✅ Mark tasks as completed (with strikethrough)
+
+📊 Progress bar updates dynamically
+
+🎉 Confetti effect when all tasks are completed
+
+🔄 Auto-clear tasks after refresh for a fresh start
+
+## 🎥 Demo
+
+(Here you can add a link to a live demo or a short GIF showing the app in action — optional)
+
+## 🛠️ Technologies Used
 
 HTML5 – Structure of the app
 
-CSS3 – Styling and layout (dark theme + responsive design)
+CSS3 – Styling and layout
 
-JavaScript  – Handles task logic, DOM updates, and confetti animations
+JavaScript (ES6+) – App logic and interactivity
 
-⚙️ Installation & Setup
+## ⚙️ Installation
 
-To run the project locally, follow these steps:
+To run this project locally:
 
-1. **Clone the repository**
+ 1.Clone the repository:
 
-   ```bash
+git clone https://github.com/your-username/todo-app.git
 
-   https://github.com/hemasriaavala/WebDev.git
-   
-2. Navigate to the project directory
 
-  cd todo-app
+ 2.Navigate to the project directory:
 
-3.Open the app
+cd todo-app
 
-  Simply open the index.html file in your browser
 
-  Or right-click → "Open With Live Server" (if using VS Code + Live Server extension)
+ 3.Open the index.html file in your browser.
 
-🎉 The Todo App is now ready to use locally!
+## 🚀 Usage
+
+Enter a task in the input field and click + to add it.
+
+Tick the checkbox to mark it as complete (task text will strike through).
+
+Use the ✏️ icon to edit a task.
+
+Use the 🗑️ icon to delete a task.
+
+Complete all tasks to see the confetti celebration 🎉.
+
+## 📸 Screenshots
+
+(Add images of your app here, like task adding, deleting, and confetti celebration)
+
+## 🔮 Future Improvements
+
+Add due dates and reminders.
+
+Drag-and-drop task reordering.
