@@ -83,6 +83,10 @@ Complete all tasks to see the confetti celebration 🎉.
 
 ## 📸 Screenshots
 
+[screenshot1](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img1.png)
+[screenshot2](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img2.png)
+[screenshot3](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img3.png)
+[screenshot4](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img4.png)
 (Add images of your app here, like task adding, deleting, and confetti celebration)
 
 ## 🔮 Future Improvements
