@@ -26,7 +26,8 @@ The Todo App is a simple and user-friendly task management application built usi
 🎉 Confetti effect when all tasks are completed <br>
 
 ## 🎥 Demo<br>
-https://github.com/user-attachments/assets/fa386cea-a2cc-4236-b4be-2656e751072b <br>
+[demo-video](https://github.com/user-attachments/assets/dd2a57f9-5255-401f-a2c9-31acc89ba948)
+
 📌**Note:** The demo video is ~1 minute long. For faster viewing and better understanding, you may adjust the playback speed (e.g., 1.25x / 1.5x).
 
 ## 🛠️ Technologies Used<br>
