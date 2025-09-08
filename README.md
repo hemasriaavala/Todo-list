@@ -44,7 +44,7 @@ The Todo App is a simple and user-friendly task management application built usi
 
 ## 🎥 Demo
 
-[demo-video](https://github.com/hemasriaavala/Todo-list/blob/177735f357718e3026989f823ae2722ea9920ad9/demo-video.mp4)
+[demo-video](https://github.com/user-attachments/assets/bbd3f9c2-a857-476a-934d-9c671fc748a6)
 
 ## 🛠️ Technologies Used
 
