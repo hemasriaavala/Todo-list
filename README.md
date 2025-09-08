@@ -1,6 +1,6 @@
 # 📝 Todo App
 
-## Write it down. Get it done! ✅
+**Write it down. Get it done! ✅**
 
 The Todo App is a simple and user-friendly task management application built using HTML, CSS, and JavaScript.
 
@@ -23,19 +23,13 @@ The Todo App is a simple and user-friendly task management application built usi
 
 ## ✨ Features
 
-➕ Add new tasks
-
-✏️ Edit existing tasks
-
-🗑️ Delete tasks
-
-✅ Mark tasks as completed (with strikethrough)
-
-📊 Progress bar updates dynamically
-
-🎉 Confetti effect when all tasks are completed
-
-🔄 Auto-clear tasks after refresh for a fresh start
+➕ Add new tasks <br>
+✏️ Edit existing tasks <br>
+🗑️ Delete tasks <br>
+✅ Mark tasks as completed (with strikethrough) <br>
+📊 Progress bar updates dynamically <br>
+🎉 Confetti effect when all tasks are completed <br>
+🔄 Auto-clear tasks after refresh for a fresh start <br>
 
 ## 🎥 Demo
 
@@ -43,11 +37,9 @@ The Todo App is a simple and user-friendly task management application built usi
 
 ## 🛠️ Technologies Used
 
-**HTML5** – Structure of the app
-
-**CSS** – Styling and layout
-
-**JavaScript** – App logic and interactivity
+**HTML5** – Structure of the app <br>
+**CSS** – Styling and layout <br>
+**JavaScript** – App logic and interactivity <br>
 
 ## ⚙️ Installation
 
@@ -94,6 +86,5 @@ Complete all tasks to see the confetti celebration 🎉.
 
 ## 🔮 Future Improvements
 
-Add due dates and reminders.
-
+Add due dates and reminders. <br>
 Drag-and-drop task reordering.
