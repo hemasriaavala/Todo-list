@@ -8,18 +8,14 @@ The Todo App is a simple and user-friendly task management application built usi
 
 ## 📑 Table of Contents
 
-[About the Project](#about-the-project)
-[Features](#features)
-[Demo](#demo)
-[Technologies Used](#technologies-used)
-
-[Installation](#installation)
-
-[Usage](#usage)
-
-[Screenshots](screenshots)
-
-[Future Improvements](#future-improvements)
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Future Improvements](#future-improvements)
 
 ## 📖 About the Project
 
@@ -82,14 +78,19 @@ Use the 🗑️ icon to delete a task.
 Complete all tasks to see the confetti celebration 🎉.
 
 ## 📸 Screenshots
+**Main Page**
+![image alt](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img1.png)
 
-[home-img](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img1.png)
+**Add task**
+![image alt](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img2.png)
 
-[add-task](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img2.png)
+**Mark Task as Completed**
+![image alt](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img3.png)
 
-[completing-task](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img3.png)
+**Confetti Effect on 100% Completion**
+![image alt](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img4.png)
 
-[blast-confitte](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img4.png)
+📌**Note:** I have not included screenshots for the Edit and Delete operations. To see how these functionalities work and to get a better understanding of the project, please check out the **demo video** provided in the [Demo](#demo).
 
 ## 🔮 Future Improvements
 
