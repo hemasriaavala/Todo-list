@@ -24,7 +24,6 @@ The Todo App is a simple and user-friendly task management application built usi
 ✅ Mark tasks as completed (with strikethrough) <br>
 📊 Progress bar updates dynamically <br>
 🎉 Confetti effect when all tasks are completed <br>
-🔄 Auto-clear tasks after refresh for a fresh start <br>
 
 ## 🎥 Demo<br>
 [demo-video](https://github.com/user-attachments/assets/fa386cea-a2cc-4236-b4be-2656e751072b)
