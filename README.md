@@ -1,6 +1,7 @@
 # 📝 Todo App
 
 Write it down. Get it done! ✅
+
 The Todo App is a simple and user-friendly task management application built using HTML, CSS, and JavaScript.
 
 ## 📑 Table of Contents
