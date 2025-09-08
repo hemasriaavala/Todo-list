@@ -4,6 +4,8 @@
 
 The Todo App is a simple and user-friendly task management application built using HTML, CSS, and JavaScript.
 
+https://github.com/hemasriaavala/Todo-list/blob/275e082bff0ba4d54de0bcfe844589d4537eb338/home-img.png
+
 ## 📑 Table of Contents
 
 [About the Project](#about-the-project)
