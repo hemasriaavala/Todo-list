@@ -26,7 +26,8 @@ The Todo App is a simple and user-friendly task management application built usi
 🎉 Confetti effect when all tasks are completed <br>
 
 ## 🎥 Demo<br>
-[demo-video](https://github.com/user-attachments/assets/fa386cea-a2cc-4236-b4be-2656e751072b)
+[demo-video](https://github.com/user-attachments/assets/fa386cea-a2cc-4236-b4be-2656e751072b) <br>
+📌**Note:** The demo video is ~1 minute long. For faster viewing and better understanding, you may adjust the playback speed (e.g., 1.25x / 1.5x).
 
 ## 🛠️ Technologies Used<br>
 **HTML5** – Structure of the app <br>
@@ -35,11 +36,11 @@ The Todo App is a simple and user-friendly task management application built usi
 
 ## ⚙️ Installation<br>
 To run this project locally: <br>
-1.Clone the repository: <br>
+**1.Clone the repository:** <br>
 git clone https://github.com/hemasriaavala/Todo-list.git <br>
-2.Navigate to the project directory: <br>
+**2.Navigate to the project directory:** <br>
 cd Todo-list<br>
-3.Open the index.html file in your browser.
+**3.Open the index.html file in your browser.**
 
 ## 🚀 Usage <br>
 - Enter a task in the input field and click + to add it. <br>
@@ -47,7 +48,7 @@ cd Todo-list<br>
 - Use the ✏️ icon to edit a task. <br>
 - Use the 🗑️ icon to delete a task. <br>
 - Complete all tasks to see the confetti celebration 🎉.
-- 
+
 ## 📸 Screenshots <br>
 **Main Page** <br>
 ![image alt](https://github.com/hemasriaavala/Todo-list/blob/1f6ccc26443042ade6da3c1cecf5e33235bcb760/img1.png) 
