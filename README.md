@@ -7,11 +7,8 @@ The Todo App is a simple and user-friendly task management application built usi
 ## 📑 Table of Contents
 
 [About the Project](#about-the-project)
-
 [Features](#features)
-
 [Demo](#demo)
-
 [Technologies Used](#technologies-used)
 
 [Installation](#installation)
@@ -48,27 +45,27 @@ The Todo App is a simple and user-friendly task management application built usi
 
 ## 🛠️ Technologies Used
 
-### HTML5 – Structure of the app
+**HTML5** – Structure of the app
 
-### CSS3 – Styling and layout
+**CSS** – Styling and layout
 
-### JavaScript (ES6+) – App logic and interactivity
+**JavaScript** – App logic and interactivity
 
 ## ⚙️ Installation
 
 To run this project locally:
 
- ### 1.Clone the repository:
+1.Clone the repository:
 
 git clone https://github.com/hemasriaavala/Todo-list.git
 
 
- ### 2.Navigate to the project directory:
+2.Navigate to the project directory:
 
 cd Todo-list
 
 
- ### 3.Open the index.html file in your browser.
+3.Open the index.html file in your browser.
 
 ## 🚀 Usage
 
